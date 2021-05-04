@@ -1,0 +1,656 @@
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have already registered!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:31:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have already registered!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:31:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have already registered!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:31:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Please enter registered contact number!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)
+Error: Please enter registered contact number!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Please enter registered contact number!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Please enter registered contact number!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Please enter registered contact number!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Please enter registered contact number!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Please enter registered contact number!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Please enter registered contact number!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter correct password
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter correct password
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have already registered!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:31:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough Seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:144:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough Seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:144:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough Seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:144:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough Seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:144:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough Seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:144:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough Seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:144:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough Seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:144:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough Seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:144:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough Seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:144:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough Seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:144:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough Seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:144:27
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough Seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:146:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough Seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:148:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough Seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:148:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough Seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:149:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough Seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:146:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough Seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:146:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:133:41
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough Seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:146:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: availability is not defined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:132:36
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: noOfPersons is not defined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:212:30
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: noOfPersons is not defined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:212:30
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: noOfPersons is not defined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:212:30
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: destId is not defined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:243:48
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: destId is not defined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:243:48
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: destId is not defined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:243:25
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: destId is not defined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:245:48
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: destId is not defined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:245:48
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: destId is not defined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:245:48
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: destId is not defined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:243:25
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+SyntaxError: Unexpected token d in JSON at position 2
+    at JSON.parse (<anonymous>)
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:243:30
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:243:30
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: destId is not defined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:245:48
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: destId is not defined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:245:48
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: destId is not defined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:245:48
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'destId' of undefined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:243:56
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'destId' of undefined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:243:56
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'destId' of undefined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:243:56
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'destId' of undefined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:243:33
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'destId' of undefined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:243:33
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'destId' of undefined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:245:56
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'destId' of undefined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:243:33
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'destId' of undefined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:245:56
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'destinationId' of undefined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:243:33
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'destId' of undefined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:245:56
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'destId' of undefined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:245:56
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have already registered!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:29:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter correct password
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:14:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter correct password
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:14:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter correct password
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:14:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter correct password
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:14:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter correct password
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:14:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter correct password
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:14:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:178:33
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:178:33
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Not enough seats available
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: This Package is Full... 1 left!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: This Package is Full... 1 left!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: This Package is Full... 1 left!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: This Package is Full... 1 left!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: This Package is Full... 1 left!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: This Package is Full... 1 left!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: This Package is Full... 1 left!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: This Package is Full... 1 left!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: This Package is Full... 1 left!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: This Package is Full... 1 left!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: This Package is Full... 1 left!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: This Package is Full... 1 left!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: This Package is Full... 1 left!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: This Package is Full... 0 left!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: This Package is Full... 0 left!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: This Package is Full... 0 left!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: This Package is Full... 0 left!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:181:27
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Please enter registered contact number!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:7:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Please enter registered contact number!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:7:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Please enter registered contact number!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:7:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Please enter registered contact number!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:7:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter correct password
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:14:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter correct password
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:14:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: This Package is Full... 4 left!!
+    at C:\Users\komal\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:180:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: connection.getDealCollection is not a function
+    at Object.usersDB.getAllDeals (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\src\model\userslogin.js:64:23)
+    at Object.userService.getAllDeals (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\src\service\userslogin.js:49:19)
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\src\routes\userRouter.js:24:17
+    at Layer.handle [as handle_request] (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+TypeError: connection.getUserCollection is not a function
+    at Object.exports.userSetup (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\src\model\setupUser.js:132:23)
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\src\routes\userRouter.js:10:15
+    at Layer.handle [as handle_request] (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+TypeError: connection.getUserCollection is not a function
+    at Object.exports.userSetup (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\src\model\setupUser.js:132:23)
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\src\routes\userRouter.js:10:15
+    at Layer.handle [as handle_request] (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+ValidationError: Restaurants validation failed: items.0: Cast to Number failed for value "Dim Sums" at path "items", items: Cast to Array failed for value "[
+  'Dim Sums',
+  'Hot and Sour Soup',
+  'Quick Noodles',
+  'Szechwan Chilli Chicken',
+  'Spring Rolls',
+  'Stir Fried Tofu with Rice',
+  'Shitake Fried Rice with Water Chestnuts',
+  'Chicken with Chestnuts'
+]" at path "items"
+    at new ValidationError (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\error\validation.js:31:11)
+    at model.Document.invalidate (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\document.js:2563:32)
+    at model.$set (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\document.js:1238:12)
+    at model._handleIndex (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\document.js:978:14)
+    at model.$set (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\document.js:919:22)
+    at model.Document (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\document.js:136:12)
+    at model.Model (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\model.js:105:12)
+    at new model (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\model.js:4708:15)
+    at Array.<anonymous> (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\model.js:3315:17)
+    at _start (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\helpers\parallelLimit.js:27:37)
+    at parallelLimit (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\helpers\parallelLimit.js:23:5)
+    at Function.Model.$__insertMany (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\model.js:3345:3)
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\kareem\index.js:369:33
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+ValidationError: Restaurants validation failed: reviews.0: Cast to string failed for value "{
+  name: 'Steve',
+  date: 'October 26, 2016',
+  rating: 4,
+  comments: 'Mission Chinese Food has grown up from its scrappy Orchard Street days into a big, two story restaurant equipped with a pizza oven, a prime rib cart, and a much broader menu. Yes, it still has all the hits — the kung pao pastrami, the thrice cooked bacon —but chef/proprietor Danny Bowien and executive chef Angela Dimayuga have also added a raw bar, two generous family-style set menus, and showstoppers like duck baked in clay. And you can still get a lot of food without breaking the bank.'
+}" at path "reviews", reviews: Cast to Array failed for value "[
+  {
+    name: 'Steve',
+    date: 'October 26, 2016',
+    rating: 4,
+    comments: 'Mission Chinese Food has grown up from its scrappy Orchard Street days into a big, two story restaurant equipped with a pizza oven, a prime rib cart, and a much broader menu. Yes, it still has all the hits — the kung pao pastrami, the thrice cooked bacon —but chef/proprietor Danny Bowien and executive chef Angela Dimayuga have also added a raw bar, two generous family-style set menus, and showstoppers like duck baked in clay. And you can still get a lot of food without breaking the bank.'
+  },
+  {
+    name: 'Morgan',
+    date: 'October 26, 2016',
+    rating: 4,
+    comments: 'This place is a blast. Must orders: GREEN TEA NOODS, sounds gross (to me at least) but these were incredible!, Kung pao pastrami (but you already knew that), beef tartare was a fun appetizer that we decided to try, the spicy ma po tofu SUPER spicy but delicous, egg rolls and scallion pancake i could have passed on... I wish we would have gone with a larger group, so much more I would have liked to try!'
+  },
+  {
+    name: 'Jason',
+    date: 'October 26, 2016',
+    rating: 3,
+    comments: 'I was VERY excited to come here after seeing and hearing so many good things about this place. Having read much, I knew going into it that it was not going to be authentic Chinese. The place was edgy, had a punk rock throwback attitude, and generally delivered the desired atmosphere. Things went downhill from there though. The food was okay at best and the best qualities were easily overshadowed by what I believe to be poor decisions by the kitchen staff.'
+  }
+]" at path "reviews"
+    at new ValidationError (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\error\validation.js:31:11)
+    at model.Document.invalidate (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\document.js:2563:32)
+    at model.$set (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\document.js:1238:12)
+    at model._handleIndex (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\document.js:978:14)
+    at model.$set (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\document.js:919:22)
+    at model.Document (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\document.js:136:12)
+    at model.Model (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\model.js:105:12)
+    at new model (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\model.js:4708:15)
+    at Array.<anonymous> (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\model.js:3315:17)
+    at _start (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\helpers\parallelLimit.js:27:37)
+    at parallelLimit (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\helpers\parallelLimit.js:23:5)
+    at Function.Model.$__insertMany (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\model.js:3345:3)
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\kareem\index.js:369:33
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+ValidationError: Restaurants validation failed: reviews.0.date: Cast to Number failed for value "October 26, 2016" at path "date", reviews.1.date: Cast to Number failed for value "October 26, 2016" at path "date", reviews.2.date: Cast to Number failed for value "October 26, 2016" at path "date"
+    at new ValidationError (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\error\validation.js:31:11)
+    at model.Document.invalidate (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\document.js:2563:32)
+    at EmbeddedDocument.invalidate (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\types\embedded.js:291:29)
+    at EmbeddedDocument.$set (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\document.js:1238:12)
+    at EmbeddedDocument._handleIndex (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\document.js:978:14)
+    at EmbeddedDocument.$set (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\document.js:919:22)
+    at EmbeddedDocument.Document (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\document.js:136:12)
+    at EmbeddedDocument [as constructor] (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\types\embedded.js:42:12)
+    at new EmbeddedDocument (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\schema\documentarray.js:115:17)
+    at DocumentArrayPath.cast (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\schema\documentarray.js:437:22)
+    at DocumentArrayPath.SchemaType.applySetters (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\schematype.js:1031:12)
+    at model.$set (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\document.js:1202:20)
+    at model._handleIndex (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\document.js:978:14)
+    at model.$set (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\document.js:919:22)
+    at model.Document (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\document.js:136:12)
+    at model.Model (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongoose\lib\model.js:105:12)
+TypeError: connection.getBookingsCollection is not a function
+    at Object.usersDB.getDetails (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\src\model\userslogin.js:6:23)
+    at Object.userService.getDetails (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\src\service\userslogin.js:6:19)
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\src\routes\userRouter.js:17:17
+    at Layer.handle [as handle_request] (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+TypeError: collection.createIndex is not a function
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\src\model\userslogin.js:7:20
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: collection.createIndex is not a function
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\src\model\userslogin.js:7:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: collection.createIndex is not a function
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\src\model\userslogin.js:7:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: connection.createIndex is not a function
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\src\model\userslogin.js:7:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: collection.createIndex is not a function
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\src\model\userslogin.js:7:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: collection.createIndex is not a function
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\src\model\userslogin.js:7:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: connection.getRestaurantsCollection(...).createIndex is not a function
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\src\model\userslogin.js:7:54
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: collection.createIndex is not a function
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\src\model\userslogin.js:7:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: collection.createIndex is not a function
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\src\model\userslogin.js:9:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: collection.createIndex is not a function
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\src\model\userslogin.js:9:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: collection.createIndex is not a function
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\src\model\userslogin.js:9:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: collection.createIndex is not a function
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\src\model\userslogin.js:9:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: collection.createIndex is not a function
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\src\model\userslogin.js:9:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: collection.createIndex is not a function
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\src\model\userslogin.js:9:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+MongoError: text index required for $text query
+    at MessageStream.messageHandler (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongodb\lib\cmap\connection.js:261:20)
+    at MessageStream.emit (events.js:314:20)
+    at processIncomingData (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongodb\lib\cmap\message_stream.js:144:12)
+    at MessageStream._write (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongodb\lib\cmap\message_stream.js:42:5)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at MessageStream.Writable.write (_stream_writable.js:318:11)
+    at Socket.ondata (_stream_readable.js:719:22)
+    at Socket.emit (events.js:314:20)
+    at addChunk (_stream_readable.js:298:12)
+    at readableAddChunk (_stream_readable.js:273:9)
+    at Socket.Readable.push (_stream_readable.js:214:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:188:23)
+MongoError: text index required for $text query
+    at MessageStream.messageHandler (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongodb\lib\cmap\connection.js:261:20)
+    at MessageStream.emit (events.js:314:20)
+    at processIncomingData (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongodb\lib\cmap\message_stream.js:144:12)
+    at MessageStream._write (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongodb\lib\cmap\message_stream.js:42:5)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at MessageStream.Writable.write (_stream_writable.js:318:11)
+    at Socket.ondata (_stream_readable.js:719:22)
+    at Socket.emit (events.js:314:20)
+    at addChunk (_stream_readable.js:298:12)
+    at readableAddChunk (_stream_readable.js:273:9)
+    at Socket.Readable.push (_stream_readable.js:214:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:188:23)
+MongoError: text index required for $text query
+    at MessageStream.messageHandler (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongodb\lib\cmap\connection.js:261:20)
+    at MessageStream.emit (events.js:314:20)
+    at processIncomingData (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongodb\lib\cmap\message_stream.js:144:12)
+    at MessageStream._write (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongodb\lib\cmap\message_stream.js:42:5)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at MessageStream.Writable.write (_stream_writable.js:318:11)
+    at Socket.ondata (_stream_readable.js:719:22)
+    at Socket.emit (events.js:314:20)
+    at addChunk (_stream_readable.js:298:12)
+    at readableAddChunk (_stream_readable.js:273:9)
+    at Socket.Readable.push (_stream_readable.js:214:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:188:23)
+MongoError: text index required for $text query
+    at MessageStream.messageHandler (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongodb\lib\cmap\connection.js:261:20)
+    at MessageStream.emit (events.js:314:20)
+    at processIncomingData (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongodb\lib\cmap\message_stream.js:144:12)
+    at MessageStream._write (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongodb\lib\cmap\message_stream.js:42:5)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at MessageStream.Writable.write (_stream_writable.js:318:11)
+    at Socket.ondata (_stream_readable.js:719:22)
+    at Socket.emit (events.js:314:20)
+    at addChunk (_stream_readable.js:298:12)
+    at readableAddChunk (_stream_readable.js:273:9)
+    at Socket.Readable.push (_stream_readable.js:214:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:188:23)
+MongoError: text index required for $text query
+    at MessageStream.messageHandler (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongodb\lib\cmap\connection.js:261:20)
+    at MessageStream.emit (events.js:314:20)
+    at processIncomingData (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongodb\lib\cmap\message_stream.js:144:12)
+    at MessageStream._write (C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\node_modules\mongodb\lib\cmap\message_stream.js:42:5)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at MessageStream.Writable.write (_stream_writable.js:318:11)
+    at Socket.ondata (_stream_readable.js:719:22)
+    at Socket.emit (events.js:314:20)
+    at addChunk (_stream_readable.js:298:12)
+    at readableAddChunk (_stream_readable.js:273:9)
+    at Socket.Readable.push (_stream_readable.js:214:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:188:23)
+ReferenceError: q is not defined
+    at C:\Users\komal\Desktop\Autocomplete API\wanderlust-web-service\src\model\userslogin.js:10:89
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+CastError: Cast to string failed for value "{ name: /^fo$/i }" at path "name" for model "Restaurants"
+    at new CastError (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\query.js:4433:15)
+    at C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\src\model\userslogin.js:9:18
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+SyntaxError: Invalid regular expression: /^+word+$/: Nothing to repeat
+    at C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\src\model\userslogin.js:8:43
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: True is not defined
+    at C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\src\model\userslogin.js:7:75
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Can't use $partial with Array.
+    at SchemaArray.castForQuery (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\schema\array.js:424:13)
+    at SchemaArray.SchemaType.castForQueryWrapper (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\schematype.js:1423:17)
+    at cast (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\cast.js:296:39)
+    at cast (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\cast.js:60:18)
+    at model.Query.Query.cast (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\query.js:4718:12)
+    at model.Query.Query._castConditions (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\query.js:1861:10)
+    at model.Query.<anonymous> (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\query.js:1888:8)
+    at model.Query._wrappedThunk [as _find] (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+    at C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\kareem\index.js:369:33
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+Error: Can't use $partial with String.
+    at SchemaString.castForQuery (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\schema\string.js:659:13)
+    at SchemaString.SchemaType.castForQueryWrapper (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\schematype.js:1423:17)
+    at cast (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\cast.js:296:39)
+    at cast (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\cast.js:60:18)
+    at model.Query.Query.cast (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\query.js:4718:12)
+    at model.Query.Query._castConditions (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\query.js:1861:10)
+    at model.Query.<anonymous> (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\query.js:1888:8)
+    at model.Query._wrappedThunk [as _find] (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+    at C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\kareem\index.js:369:33
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+Error: Can't use $partial with String.
+    at SchemaString.castForQuery (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\schema\string.js:659:13)
+    at SchemaString.SchemaType.castForQueryWrapper (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\schematype.js:1423:17)
+    at cast (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\cast.js:296:39)
+    at cast (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\cast.js:60:18)
+    at model.Query.Query.cast (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\query.js:4718:12)
+    at model.Query.Query._castConditions (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\query.js:1861:10)
+    at model.Query.<anonymous> (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\query.js:1888:8)
+    at model.Query._wrappedThunk [as _find] (C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+    at C:\Users\komal\Desktop\Autocomplete App\Autocomplete-API\web-server\node_modules\kareem\index.js:369:33
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
